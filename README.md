@@ -12,9 +12,6 @@
 ## Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danascape&show_icons=true&count_private=true&theme=dark" alt="saalim" /></p>
 
-## Streak
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danascape&theme=dark"/></p>
-
 <br>
 
   <a href="https://twitter.com/danascape">
