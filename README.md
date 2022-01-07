@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br></p>
+<img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br>
 
-<p align="center">[![Saalim's github stats](https://github-readme-stats.vercel.app/api?username=danascape)](https://github.com/danascape)</p>
+[![Saalim's github stats](https://github-readme-stats.vercel.app/api?username=danascape)](https://github.com/danascape)
   
 <br>
   <a href="https://twitter.com/danascape">
