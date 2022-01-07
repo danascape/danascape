@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br>
 
 [![Saalim's github stats](https://github-readme-stats.vercel.app/api?username=danascape)](https://github.com/danascape)
-
+</p>
+  
 <br>
   <a href="https://twitter.com/danascape">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
