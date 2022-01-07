@@ -1,11 +1,4 @@
-# Saalim Quadri&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<p>
-  <em>
-    19 years of life passed! <br>
-
-
-<br>
+### Hi there 👋
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br></p>
 
