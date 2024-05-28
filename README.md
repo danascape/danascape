@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there 👋
+
+I'm Saalim, a 22 y/o Linux Kernel / AOSP Developer from India 🇮🇳.
 
 <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="danascape" /><br>
 
