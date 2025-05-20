@@ -27,16 +27,19 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 ---
 
 ## 📫 Connect with Me
-
-<p>
+<a href="https://www.linkedin.com/in/saalim-quadri/">
+    <img align="left" alt="Saalim Quadri | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
   <a href="https://twitter.com/danascape">
-    <img alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+    <img align="left" alt="Saalim Quadri | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/quadrisaalim/">
+    <img align="left" alt="Saalim Quadri | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
   <a href="mailto:saalim.priv@gmail.com">
-    <img alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Saalim Quadri | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-</p>
-
+  
 ---
 
 <p align="center">
