@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm **Saalim**, a 22 y/o **Linux Kernel / AOSP Developer** from 🇮🇳 India.
+I'm **Saalim**, a 23 y/o **Linux Kernel / AOSP Developer** from 🇮🇳 India.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="Profile Views" />
