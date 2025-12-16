@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm **Saalim**, a 23 y/o **Linux Kernel / AOSP Developer** from 🇮🇳 India.
+I'm **Saalim**, a 23 y/o **Linux Kernel / AOSP / BSP Engineer**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="Profile Views" />
@@ -8,15 +8,14 @@ I'm **Saalim**, a 23 y/o **Linux Kernel / AOSP Developer** from 🇮🇳 India.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Work
+- 📱 **AOSP Bring-ups**  
+  [`platform_local_manifest`](https://github.com/danascape/platform_local_manifest)  
+  Device manifests for building AOSP-based ROMs.
 
-### 📱 AOSP Bring-ups  
-**[platform_local_manifest](https://github.com/danascape/platform_local_manifest)**  
-This repository tracks my work on Android Open Source Project (AOSP) device bring-ups. I maintain and update manifests for building custom Android ROMs on various devices.
-
-### 🧠 Kernel Development  
-**[platform_kernel_manifest](https://github.com/danascape/platform_kernel_manifest)**  
-Here I track my Linux kernel projects, including custom kernels tailored for specific device targets in the Android ecosystem.
+- 🧠 **Kernel Development**  
+  [`platform_kernel_manifest`](https://github.com/danascape/platform_kernel_manifest)  
+  Custom Linux kernels for Android devices.
 
 ---
 
@@ -26,7 +25,7 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect
 <a href="https://www.linkedin.com/in/saalim-quadri/">
     <img align="left" alt="Saalim Quadri | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
