@@ -8,14 +8,14 @@ I'm **Saalim**, a 23 y/o **Linux Kernel / AOSP / BSP Engineer**.
 
 ---
 
-### 🚀 Work
-- 📱 **AOSP Bring-ups**  
-  [`platform_local_manifest`](https://github.com/danascape/platform_local_manifest)  
-  Device manifests for building AOSP-based ROMs.
+## 🚀 Work
+### 📱 AOSP Bring-ups  
+**[platform_local_manifest](https://github.com/danascape/platform_local_manifest)**  
+This repository tracks my work on Android Open Source Project (AOSP) device bring-ups. I maintain and update manifests for building custom Android ROMs on various devices.
 
-- 🧠 **Kernel Development**  
-  [`platform_kernel_manifest`](https://github.com/danascape/platform_kernel_manifest)  
-  Custom Linux kernels for Android devices.
+### 🧠 Kernel Development  
+**[platform_kernel_manifest](https://github.com/danascape/platform_kernel_manifest)**  
+Here I track my Linux kernel projects, including custom kernels tailored for specific device targets in the Android ecosystem.
 
 ---
 
