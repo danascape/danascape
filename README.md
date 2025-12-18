@@ -12,6 +12,7 @@
 - AOSP Engineer [@Murena](https://murena.com/)
 - Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - BSP Engineer [@Vispero](https://vispero.com/)
+- Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
 - Linux Kernel Developer Intern [@The Rainmakers](https://rainmakers.dev/)
 - Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
 - Linux Kernel Developer [@Nimo Planet](https://www.nimo.space/)
@@ -33,6 +34,12 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 ## Open-Source Projects
 - StormBreaker Project
 - PvotOS
+- StyxOS
+- ProtonPlus Project
+- FusionOS
+- WeebProjekt
+- HentaiOS-Legacy
+- GrapheneOS-Legacy
 
 ---
 
