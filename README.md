@@ -10,7 +10,12 @@
 
 ## 🚀 Work Experience
 - AOSP Engineer [@Murena](https://murena.com/)
+- Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - BSP Engineer [@Vispero](https://vispero.com/)
+- Linux Kernel Developer Intern [@The Rainmakers](https://rainmakers.dev/)
+- Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
+- Linux Kernel Developer [@Nimo Planet](https://www.nimo.space/)
+- Android Platform Developer [@NextFruit Electronics](https://in.linkedin.com/company/nextfruit)
 
 ---
 
@@ -22,6 +27,11 @@ This repository tracks my work on Android Open Source Project (AOSP) device brin
 ### 🐧 Custom Kernel Development  
 **[platform_kernel_manifest](https://github.com/danascape/platform_kernel_manifest)**  
 Here I track my Linux kernel projects, including custom kernels tailored for specific device targets in the Android ecosystem.
+
+---
+
+## Open-Source Projects
+### StormBreaker Project
 
 ---
 
