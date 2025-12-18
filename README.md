@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Work Experience
+## Work Experience
 - AOSP Engineer [@Murena](https://murena.com/)
 - Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - BSP Engineer [@Vispero](https://vispero.com/)
@@ -31,7 +31,8 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 ---
 
 ## Open-Source Projects
-### StormBreaker Project
+- StormBreaker Project
+- PvotOS
 
 ---
 
