@@ -1,10 +1,16 @@
 # Saalim Quadri
 
-**Linux Kernel / AOSP / BSP Engineer**.
+**Linux Kernel / AOSP / BSP Engineer**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+## 🚀 Work Experience
+- AOSP Engineer [@Murena](https://murena.com/)
+- BSP Engineer [@Vispero](https://vispero.com/)
 
 ---
 
