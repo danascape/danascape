@@ -14,7 +14,7 @@
 - BSP Engineer [@Vispero](https://vispero.com/)
 - Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
 - Linux Kernel Developer Intern [@The Rainmakers](https://rainmakers.dev/)
-- Linux Foundation Mentorship [@LinuxFoundation](https://lfx.linuxfoundation.org/)
+- Linux Foundation Mentorship (LKMP) [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
 - Linux Kernel Developer [@Nimo Planet](https://www.nimo.space/)
 - Android Platform Developer [@NextFruit Electronics](https://in.linkedin.com/company/nextfruit)
