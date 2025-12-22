@@ -12,10 +12,10 @@
 - AOSP Engineer [@Murena](https://murena.com/)
 - Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - BSP Engineer [@Vispero](https://vispero.com/)
-- Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
 - Linux Kernel Developer Intern [@The Rainmakers](https://rainmakers.dev/)
-- Linux Foundation Mentorship (LKMP) [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
+- Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
+- Linux Foundation Mentorship (LKMP) [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - Linux Kernel Developer [@Nimo Planet](https://www.nimo.space/)
 - Android Platform Developer [@NextFruit Electronics](https://in.linkedin.com/company/nextfruit)
 
@@ -33,8 +33,8 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 ---
 
 ## Open-Source Projects
-- PvotOS
-- StormBreaker Project
+- [PvotOS](https://github.com/pvot-oss)
+- [StormBreaker Project](https://github.com/stormbreaker-project)
 - StyxOS
 - ProtonPlus Project
 - FusionOS
