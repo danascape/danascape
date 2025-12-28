@@ -41,6 +41,7 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 - WeebProjekt
 - HentaiOS-Legacy
 - GrapheneOS-Legacy
+- Pure AOSP Bring-ups
 
 ---
 
