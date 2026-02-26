@@ -12,7 +12,7 @@
 - Software Engineer [@63SATS](https://www.63moons.com/solutions/cybersecurity.html)
 - AOSP Engineer [@Murena](https://murena.com/)
 - Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
-- BSP Engineer [@Vispero](https://vispero.com/)
+- AOSP/BSP Engineer [@Vispero](https://vispero.com/)
 - Linux Kernel Developer Intern [@The Rainmakers](https://rainmakers.dev/)
 - Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
 - Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
