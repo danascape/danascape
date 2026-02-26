@@ -9,7 +9,7 @@
 ---
 
 ## Work Experience
-- Software Engineer (@63SATS)(https://www.63moons.com/solutions/cybersecurity.html)
+- Software Engineer [@63SATS](https://www.63moons.com/solutions/cybersecurity.html)
 - AOSP Engineer [@Murena](https://murena.com/)
 - Google Summer of Code [@LinuxFoundation](https://lfx.linuxfoundation.org/)
 - BSP Engineer [@Vispero](https://vispero.com/)
