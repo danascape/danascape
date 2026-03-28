@@ -17,7 +17,7 @@
 - Android Framework Engineer [@LMODroid](https://github.com/LMODroid)
 - Embedded Firmware Engineer Intern [@Raptee Energy](https://www.rapteehv.com)
 - Linux Foundation Mentorship (LKMP) [@LinuxFoundation](https://lfx.linuxfoundation.org/)
-- Linux Kernel Developer [@Nimo Planet](https://www.nimo.space/)
+- Linux Kernel Developer [@Nimo Planet](https://www.nimoplanet.com/)
 - Android Platform Developer [@NextFruit Electronics](https://in.linkedin.com/company/nextfruit)
 
 ---
