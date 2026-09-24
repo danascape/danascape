@@ -48,7 +48,7 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 
 ## 🧰 Stack
 
-`C` `C++` `Linux Kernel` `AOSP` `Git` `Bash`
+`C` `Kotlin` `Java` `C++` `Linux Kernel` `AOSP` `Git` `Bash`
 
 ---
 
