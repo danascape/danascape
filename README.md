@@ -31,6 +31,9 @@ This repository tracks my work on Android Open Source Project (AOSP) device brin
 **[platform_kernel_manifest](https://github.com/danascape/platform_kernel_manifest)**  
 Here I track my Linux kernel projects, including custom kernels tailored for specific device targets in the Android ecosystem.
 
+### LineageOS SetupWizard
+**[SetupWizard](https://github.com/danascape/SetupWizard)**  
+
 ---
 
 ## Open-Source Projects
