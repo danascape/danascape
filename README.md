@@ -33,6 +33,7 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 
 ### LineageOS SetupWizard
 **[SetupWizard](https://github.com/danascape/SetupWizard)**  
+KT conversion + M3E pixel-like device on-boarding
 
 ---
 
