@@ -35,6 +35,10 @@ Here I track my Linux kernel projects, including custom kernels tailored for spe
 **[SetupWizard](https://github.com/LineageOS/android_packages_apps_SetupWizard)**  
 KT conversion + M3E pixel-like device on-boarding
 
+### SeedVault
+**[SeedVault]**  
+WIP
+
 ### AudioFX
 **[AudioFX](https://github.com/danascape/AudioFX)**  
 WIP
