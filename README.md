@@ -31,13 +31,15 @@ This repository tracks my work on Android Open Source Project (AOSP) device brin
 **[platform_kernel_manifest](https://github.com/danascape/platform_kernel_manifest)**  
 Here I track my Linux kernel projects, including custom kernels tailored for specific device targets in the Android ecosystem.
 
+### Pvot Messages
+**[Pvot Messages](https://github.com/PVOT-OSS/Messages)**
+
 ### LineageOS SetupWizard
-**[SetupWizard](https://github.com/LineageOS/android_packages_apps_SetupWizard)**  
+**[SetupWizard](https://github.com/LineageOS/android_packages_apps_SetupWizard)**
 KT conversion + M3E pixel-like device on-boarding
 
 ### AudioFX
-**[AudioFX](https://github.com/danascape/AudioFX)**  
-WIP
+**[AudioFX](https://github.com/danascape/AudioFX)**
 
 ---
 
