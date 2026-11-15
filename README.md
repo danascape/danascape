@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=danascape&style=flat-square" alt="Profile Views" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/danascape)
-
 ---
 
 ## Work Experience
