@@ -41,7 +41,7 @@ KT conversion + M3E pixel-like device on-boarding
 ---
 
 ## Open-Source Projects
-- [PvotOS](https://github.com/pvot-oss)
+- [PvotOSS](https://github.com/pvot-oss)
 - [StormBreaker Project](https://github.com/stormbreaker-project)
 - StyxOS
 - ProtonPlus Project
